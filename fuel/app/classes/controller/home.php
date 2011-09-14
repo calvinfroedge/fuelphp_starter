@@ -1,6 +1,6 @@
 <?php
 
-class Controller_Home extends Controller_Template {
+class Controller_Home extends Sell_Base {
 
     public function action_index()
     {
