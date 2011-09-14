@@ -195,6 +195,7 @@ return array(
 		 */
 		'packages'	=> array(
 			//'orm',
+			'hydro'
 		),
 
 		/**
